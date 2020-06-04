@@ -8,15 +8,15 @@
  
 ### - 经历 
 
-→ 南京信息工程大学数字媒体艺术本科
+- 数字媒体艺术本科
 
-→ 作品《鲜可见》曾获2018年上海大学生创客大赛企业奖
+- 作品《鲜可见》曾获2018年上海大学生创客大赛企业奖
 
-→ 作品《WING HOUSE》曾获2018年EnHouse X HOUSE VISON主办的EnHouse Project设计大赛决赛入围奖
+- 作品《WING HOUSE》曾获2018年EnHouse X HOUSE VISON主办的EnHouse Project设计大赛决赛入围奖
 
-→ 西安典益装饰工程有限公司设计助理/上海韶羽创意设计有限公司助理讲师
+- 西安典益装饰工程有限公司设计助理/上海韶羽创意设计有限公司助理讲师
 
-→ 参与2018年张周捷老师主讲的数字家具设计课程
+- 参与2018年张周捷老师主讲的数字家具设计课程
 并设计“INFINITE STATION”高达主题家具/协助策展
 
-→ behance主页https://www.behance.net/molovenaka5771
+- behance主页(建设中 https://www.behance.net/molovenaka5771
