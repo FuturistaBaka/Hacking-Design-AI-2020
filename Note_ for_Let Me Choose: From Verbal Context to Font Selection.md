@@ -2,9 +2,11 @@
 
 ## Overview
 
+
 ### Outline
 
 本文提出一个有趣的任务：根据输入的文本选择最合适的字体。本文构建了一个小型的（文字-字体）标注数据集，使用各种模型进行训练，对不同内容的文字推荐合适的、好看的字体。
+
 
 ### Main contributions
 
@@ -30,10 +32,13 @@
 4. **Evaluation Settings**
 - Font Recall (FR) : that measures the performance of models in learning individual labels 
 
-5. ** Optimization ** ( Data Augmentation )
+5. **Optimization** ( Data Augmentation )
+
+
 
 ## Reflection
 
 1.可以考虑文本输入时自动选择字体附上优先选择级满足使用者多重需求。
+
 2.数据集后期如何更加有效迭代值得思考（利用字体间的相似性）
 
